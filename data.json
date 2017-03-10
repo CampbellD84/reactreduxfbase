@@ -1,0 +1,19 @@
+{
+  "agenda": "Brainstorming meeting for new movie.",
+  "guests" : {
+    "-KUDHLoA79LzYXsXLNZM" : {
+      "name" : "Akira Kurosawa"
+    },
+    "-KUDHPgsYqOVcC-Db7-W" : {
+      "name" : "Ingmar Bergman"
+    },
+
+    "-KUDHS9kUXPYWN8aqD6A" : {
+      "name" : "Wes Craven"
+    },
+    "-KUDHW9EmNahoyjdwJdf" : {
+      "name" : "David Lynch"
+      }
+    },
+  "host": "Lars von Trier"
+}
