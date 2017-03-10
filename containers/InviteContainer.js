@@ -1,4 +1,5 @@
 import {connect} from 'react-redux';
+import {getInvite} from '../actions/getInvite';
 import Invite from '../components/invite.jsx';
 
 function mapStateToProps(state) {
@@ -9,7 +10,7 @@ function mapStateToProps(state) {
 
 function mapDispatchToProps(dispatch) {
   return {
-
+    onGetInvite: () => dispatch(getInvite()),
   };
 }
 
