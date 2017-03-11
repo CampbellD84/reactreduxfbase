@@ -19,7 +19,7 @@ export function addToInvite(name) {
 
 function addToInviteRequestedAction() {
   return {
-    type: ActionTypes.addToInviteRequestedAction
+    type: ActionTypes.addToInviteRequested
   }
 }
 

@@ -4,7 +4,7 @@ export default class Invite extends React.Component {
   constructor() {
     super();
 
-    this.state {
+    this.state = {
       name: ''
     };
   }
